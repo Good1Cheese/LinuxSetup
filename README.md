@@ -18,3 +18,6 @@ Programs/Soft I use on Linux
 *Heroic
 * GOverlay
 * Virtual machine manager
+* Devilbox
+* Erkundungen B2
+* AFDK
