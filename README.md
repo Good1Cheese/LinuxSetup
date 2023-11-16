@@ -3,22 +3,21 @@ Programs/Soft I use on Linux
 
 * Firefox
 * Telegram
-* Lua5.3
+* Lua5.4
 * Luarocks
 * VS code(VScodium)
-* Neovim + nvim-qt
+* Neovim + neovide
 * Neovim config switcher
-* Neovim GMOD: LuaLS/LLS-Addons/tree/main/addons/garrysmod(~/.local/state/Lua_Addons/garrysmode/)
+* Neovim GMOD
 * Github Desktop
 * Night color
 * Clipboard manager
-* Yakuake
+* Guake
 * Figma
 * Discord: BetterDiscord
-*Heroic
+* Heroic
 * GOverlay
 * Virtual machine manager
 * Devilbox
 * Erkundungen B2
 * AFDK
-* Tilix
