@@ -9,6 +9,8 @@ Programs/Soft I use on Linux
 * Neovim + neovide
 * Neovim config switcher
 * Neovim GMOD
+* doas
+* fish shell (oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline)
 * Github Desktop
 * Night color
 * Clipboard manager
