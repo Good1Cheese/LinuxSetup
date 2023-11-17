@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.colorTheme": "Sweet Dracula",
+    "editor.minimap.enabled": false,
+    "explorer.confirmDragAndDrop": false
+}
