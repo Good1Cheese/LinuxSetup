@@ -23,3 +23,4 @@ Programs/Soft I use on Linux
 * Devilbox
 * Erkundungen B2
 * AFDK
+* qutebrowser
