@@ -1,6 +1,7 @@
 # LinuxSetup
 Programs/Soft I use on Linux
 
+[Gnome customized](https://www.youtube.com/watch?v=zOUTasMuZl4) + Papirus icon theme
 * Firefox
 * Telegram
 * Lua5.4
