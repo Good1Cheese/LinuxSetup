@@ -2,7 +2,7 @@
 Programs/Soft I use on Linux
 
 [Gnome customized](https://www.youtube.com/watch?v=zOUTasMuZl4) + Papirus icon theme
-* [Firefox](https://www.youtube.com/watch?v=dwZpjKH8nbo) + searx(PrivAU)
+* [LibreWolf](https://www.youtube.com/watch?v=dwZpjKH8nbo) + searx(PrivAU)
 * Telegram
 * Lua5.4
 * Luarocks ( busted, lua-requests )
