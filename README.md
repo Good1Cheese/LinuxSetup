@@ -11,6 +11,7 @@ Programs/Soft I use on Linux
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
 * alacritty
 * ranger
+* lazygit
 * Github Desktop
 * Night color
 * Clipboard manager
