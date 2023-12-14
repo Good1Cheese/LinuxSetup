@@ -12,6 +12,7 @@ Programs/Soft I use on Linux
 * alacritty
 * ranger, atool
 * lazygit
+* pulseaudio, pavucontrol
 * Github Desktop
 * Night color
 * Clipboard manager
