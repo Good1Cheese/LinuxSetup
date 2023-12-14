@@ -10,7 +10,7 @@ Programs/Soft I use on Linux
 * doas
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
 * alacritty
-* ranger
+* ranger, atool
 * lazygit
 * Github Desktop
 * Night color
