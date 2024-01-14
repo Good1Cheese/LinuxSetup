@@ -1,22 +1,18 @@
 if status is-interactive
 	#custom aliases
-	alias fol='nautilus . &'
 	alias nconf='cd ~/.config/nvim'
-	alias prop='cd ~/.steam/debian-installation/steamapps/common/GarrysMod/garrysmod/gamemodes/cstrike'
 	alias proj='cd ~/Projects'
 	alias aws='cd ~/.config/awesome'
+	alias fide='cd ~/.config/fish'
+
+    alias lg='lazygit'
 	alias qq='neovide'
+
 	alias sudo='doas'
 	alias pac='doas pacman'
-	alias stdock='sudo docker-compose -f ~/Apps/devilbox/docker-compose.yml up -d'
-	alias kldock='sudo docker-compose -f ~/Apps/devilbox/docker-compose.yml kill'
+	alias std='shutdown now'
+	alias knv='killall neovide'
 end
-
-set -gx BSPWM "$HOME/.config/bspwm"
-# $HOME/.config/bspwm/launchers
-set -gx BSPWM_LAUNCHERS "$BSPWM/launchers"
-# $HOME/.config/bspwm/configs
-set -gx BSPWM_CONFIGS "$BSPWM/configs"
 
 function bind_bang
     switch (commandline -t)[-1]
