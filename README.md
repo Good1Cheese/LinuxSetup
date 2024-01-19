@@ -11,6 +11,7 @@ Programs/Soft I use on Linux
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
 * alacritty
 * ranger, atool
+* simple-mtpfs for 
 * lazygit
 * pulseaudio, pavucontrol
 * Github Desktop
