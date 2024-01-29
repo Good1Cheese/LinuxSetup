@@ -13,6 +13,7 @@ Programs/Soft I use on Linux
 * ranger, atool
 * simple-mtpfs for 
 * lazygit
+* flameshot
 * pulseaudio, pavucontrol
 * Github Desktop
 * Night color
