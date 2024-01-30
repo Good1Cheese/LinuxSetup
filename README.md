@@ -13,6 +13,7 @@ Programs/Soft I use on Linux
 * ranger, atool
 * simple-mtpfs for 
 * lazygit
+* trash-cli
 * flameshot
 * pulseaudio, pavucontrol
 * Github Desktop
