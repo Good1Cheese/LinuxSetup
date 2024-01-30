@@ -6,14 +6,12 @@ Programs/Soft I use on Linux
 * Telegram
 * Lua5.4. luarocks ( busted, lua-requests )
 * VScodium
-* Neovim, neovide, config switcher
+* Neovim, neovide, config switcher, lazygit
 * doas
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
 * alacritty
-* ranger, atool
+* ranger, atool, trash-cli
 * simple-mtpfs for 
-* lazygit
-* trash-cli
 * flameshot
 * pulseaudio, pavucontrol
 * Github Desktop
