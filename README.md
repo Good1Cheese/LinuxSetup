@@ -7,6 +7,6 @@ Programs/Soft I use on Linux
 * Steam, Heroic, Discord
 * pulseaudio, pavucontrol
 * Lua5.4. luarocks ( busted, lua-requests )
-* Neovim, neovide, config switcher, lazygit, flameshot, doas, alacritty
+* Neovim, neovide, config switcher, lazygit, flameshot, doas, alacritty, udiskie
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
 * lf, atool, trash-cli, broot, dragon
