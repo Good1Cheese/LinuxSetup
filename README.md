@@ -9,6 +9,6 @@ Programs/Soft I use on Linux
 * Lua5.4. luarocks ( busted, lua-requests )
 * Neovim, neovide, config switcher, lazygit, doas, alacritty
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
-* lf, atool, trash-cli, broot, dragon
+* lf, atool, trash-cli, broot, dragon, devour
 
 ### [My WM Setup](https://github.com/Good1Cheese/awesome)
