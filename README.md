@@ -4,7 +4,7 @@ Programs/Soft I use on Linux
 [Gnome customized](https://www.youtube.com/watch?v=zOUTasMuZl4) + Papirus icon theme
 * [LibreWolf](https://www.youtube.com/watch?v=dwZpjKH8nbo) + searx(PrivAU)
 * Telegram, VScodium, Erkundungen B2, Devilbox
-* Steam, Heroic, Discord
+* Steam, Heroic, Discord, betterdiscord, gajim
 * pulseaudio, pavucontrol
 * Lua5.4. luarocks ( busted, lua-requests )
 * Neovim, neovide, config switcher, lazygit, doas, alacritty
