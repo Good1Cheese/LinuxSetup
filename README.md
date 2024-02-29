@@ -11,5 +11,6 @@ Programs/Soft I use on Linux
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
 * lf, atool, trash-cli, broot, dragon, devour, yay
 * ~~simple-mtfs~~ android-file-transfer, fusermount
+* musikcube
 
 ### [My WM Setup](https://github.com/Good1Cheese/awesome)
