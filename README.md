@@ -12,5 +12,6 @@ Programs/Soft I use on Linux
 * lf, atool, htop, ncdu, dust, trash-cli, broot, dragon, devour, yay
 * ~~simple-mtfs~~ android-file-transfer, fusermount
 * musikcube
+* woeusb
 
 ### [My WM Setup](https://github.com/Good1Cheese/awesome)
