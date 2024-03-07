@@ -9,7 +9,7 @@ Programs/Soft I use on Linux
 * Lua5.4. luarocks ( busted, lua-requests )
 * Neovim, neovide, config switcher, lazygit, doas, alacritty
 * fish shell ( oh-my-fish, batman, Anonymous Pro Bold 14, Thayer Bright, fonts-powerline )
-* lf, atool, htop, ncdu, dust, trash-cli, broot, dragon, devour, yay
+* lf, atool, btop, ncdu, dust, trash-cli, broot, dragon, devour, yay
 * ~~simple-mtfs~~ android-file-transfer, fusermount
 * musikcube
 * woeusb
