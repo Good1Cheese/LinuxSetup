@@ -14,7 +14,7 @@ Programs/Soft I use on Linux
 * ~~simple-mtfs~~ android-file-transfer, fusermount
 * musikcube
 * woeusb
-
+* droidcam(v4l2loopback-utils v4l2loopback-dkms, adb)
 ## Tools:
 * atool, doas
 ### [My WM Setup](https://github.com/Good1Cheese/awesome)
