@@ -15,6 +15,13 @@ Programs/Soft I use on Linux
 * musikcube
 * woeusb
 * droidcam(v4l2loopback-utils v4l2loopback-dkms, adb)
+
+for bash:<br>
+```
+npm i -g bash-language-server
+pacman -S shellcheck
+```
+
 ## Tools:
 * atool, doas
 ### [My WM Setup](https://github.com/Good1Cheese/awesome)
